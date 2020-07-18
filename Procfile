@@ -1,0 +1,1 @@
+web: gunicorn site_jobs_scrapper.wsgi
