@@ -1,0 +1,6 @@
+[client]
+database = jobs-scrapper
+user = postgres
+password = toor
+host = 127.0.0.1
+default-character-set = utf8
